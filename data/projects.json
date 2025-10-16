@@ -1,0 +1,34 @@
+[
+  {
+    "id": "p1",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo1ZTLGwZkX4kVl0k-6LulshDPLG-IJZddQQ&s",
+    "title": "Proyecto Uno",
+    "description": "Calculadora.",
+    "tech": [
+      "Python"
+    ],
+    "link": "https://github.com/carlinho1680/calculadora"
+  },
+  {
+    "id": "p2",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuDCrCIfdhGYSvZKez8vKxi3vXq9ynJpA3VQ&s",
+    "title": "Evaluacion FullStack 2. ",
+    "description": " pagina de venta de ropas.",
+    "tech": [
+      "HTML",
+      "CSS",
+      "JS"
+    ],
+    "link": "https://github.com/Rodrigossss/Eva_1"
+  },
+  {
+    "id": "p3",
+    "image": "https://a.storyblok.com/f/178900/940x529/46adaa84be/usopp-one-piece-episode-220.png/m/filters:quality(95)format(webp)",
+    "title": "Evaluacion FullStack ",
+    "description": "Pagina de venta y cambio de ropa usada.",
+    "tech": [
+      "Java"
+    ],
+    "link": "https://github.com/benjawl-alt/Ecomarket"
+  }
+]
