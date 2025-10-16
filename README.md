@@ -35,5 +35,5 @@ Esto ejecuta Karma en ChromeHeadless (asegúrate de tener Chrome/Chromium instal
 
 ## Observaciones y recomendaciones
 - En esta entrega la app de desarrollo usa Vite (rápido). Para las pruebas se incluye una configuración de Karma que usa webpack y babel para transformar JSX a JS entendible por el runner de Karma.
-- Si prefieres usar Jest (predeterminado en muchas plantillas CRA) puedo adaptar las pruebas a Jest + React Testing Library (más moderno). Sin embargo la pauta pide explícitamente Jasmine+Karma, por eso se configuró Karma.
-- Adapta `assets/profile.jpg` por tu foto profesional y actualiza `README.md` y `src/components/Intro.jsx` con tu nombre real.
+
+
